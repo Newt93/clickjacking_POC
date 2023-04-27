@@ -1,0 +1,10 @@
+<html>
+<head>
+<title> Clickjack test page</title>
+</head>
+<body>
+    <p>Website is vulnerable to clickjacking!</p>
+    <iframe src="http://EnterURLHere.com" width="500" height="500"></iframe>
+    <p>Clickjacking is possible!</p>
+</body>
+</html>
